@@ -1,4 +1,4 @@
-function hi(name: string): string {
+const hi = (name: string): string => {
   return `Hi! ${name}`
 }
 

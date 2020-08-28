@@ -1,6 +1,6 @@
 import hi from './hi'
 
-function hello(name: string): string {
+const hello = (name: string): string => {
   return `Hello, ${name}!`
 }
 
