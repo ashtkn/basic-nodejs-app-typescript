@@ -29,3 +29,23 @@ $ yarn lint
 # Lint and fix your scripts
 $ yarn lint --fix
 ```
+
+## Installed packages
+
+```bash
+npm install -D \
+	@types/node \
+	@typescript-eslint/eslint-plugin \
+	@typescript-eslint/parser \
+	eslint \
+	eslint-config-prettier \
+	eslint-plugin-prettier \
+	eslint-plugin-import \
+	eslint-plugin-simple-import-sort \
+	husky \
+	lint-staged \
+	prettier \
+	ts-node \
+	ts-node-dev \
+	typescript
+```
