@@ -1,4 +1,4 @@
-# basic-node-app-typescript
+# basic-nodejs-app-typescript
 
 This repository contains Basic Node.js App (TypeScript)
 

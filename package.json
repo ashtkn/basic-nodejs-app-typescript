@@ -1,5 +1,5 @@
 {
-  "name": "basic-node-app-typescript",
+  "name": "basic-nodejs-app-typescript",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
@@ -29,14 +29,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ashtkn/basic-node-app-typescript.git"
+    "url": "git+https://github.com/ashtkn/basic-nodejs-app-typescript.git"
   },
   "author": "Asahi Takenouchi",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ashtkn/basic-node-app-typescript/issues"
+    "url": "https://github.com/ashtkn/basic-nodejs-app-typescript/issues"
   },
-  "homepage": "https://github.com/ashtkn/basic-node-app-typescript#readme",
+  "homepage": "https://github.com/ashtkn/basic-nodejs-app-typescript#readme",
   "devDependencies": {
     "@types/node": "^14.11.10",
     "@typescript-eslint/eslint-plugin": "^4.4.1",
