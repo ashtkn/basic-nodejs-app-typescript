@@ -9,25 +9,16 @@ This repository contains Basic Node.js App (TypeScript)
 
 ```bash
 # Install dependencies
-$ yarn install
+$ npm install
 
 # Run your scripts
-$ yarn dev
-
-# Run your scripts and watch changes
-$ yarn dev:watch
-
-# Compile your scripts
-$ yarn build
-
-# Run your compiled scripts
-$ yarn start
-
-# Lint your scripts
-$ yarn lint
+$ npm run start
 
 # Lint and fix your scripts
-$ yarn lint --fix
+$ npm run lint
+
+# Format your scripts
+$ npm run format
 ```
 
 ## Installed packages
@@ -39,9 +30,6 @@ npm install -D \
 	@typescript-eslint/parser \
 	eslint \
 	eslint-config-prettier \
-	eslint-plugin-prettier \
-	eslint-plugin-import \
-	eslint-plugin-simple-import-sort \
 	husky \
 	lint-staged \
 	prettier \
