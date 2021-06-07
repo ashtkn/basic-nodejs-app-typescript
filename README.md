@@ -2,12 +2,12 @@
 
 This repository contains Basic Node.js App (TypeScript)
 
-* You can start implementing Node.js app with TypeScript.
-* You can lint your scripts with eslint and prettier.
+- You can start implementing Node.js app with TypeScript.
+- You can lint your scripts with eslint and prettier.
 
 ## Usage
 
-``` bash
+```bash
 # Install dependencies
 $ yarn install
 
