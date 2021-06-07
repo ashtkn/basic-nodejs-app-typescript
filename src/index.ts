@@ -1,8 +1,7 @@
-import hi from './hi'
+import hello from './hello'
 
-const hello = (name: string): string => {
-  return `Hello, ${name}!`
+const main = (): void => {
+  hello('Taro')
 }
 
-console.log(hello('Taro'))
-console.log(hi('Jiro'))
+main()
