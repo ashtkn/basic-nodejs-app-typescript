@@ -20,4 +20,3 @@ $ npm run lint
 # Format your scripts
 $ npm run format
 ```
-
