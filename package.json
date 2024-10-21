@@ -1,7 +1,7 @@
 {
   "name": "basic-nodejs-app-typescript",
   "version": "1.0.0",
-  "main": "dist/index.js",
+  "main": "dist/app.js",
   "scripts": {
     "install": "lefthook install",
     "dev": "ts-node src/app.ts",
