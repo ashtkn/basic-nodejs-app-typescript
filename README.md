@@ -21,19 +21,3 @@ $ npm run lint
 $ npm run format
 ```
 
-## Installed packages
-
-```bash
-npm install -D \
-	@types/node \
-	@typescript-eslint/eslint-plugin \
-	@typescript-eslint/parser \
-	eslint \
-	eslint-config-prettier \
-	husky \
-	lint-staged \
-	prettier \
-	ts-node \
-	ts-node-dev \
-	typescript
-```
